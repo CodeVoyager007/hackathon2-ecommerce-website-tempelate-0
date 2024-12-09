@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛋️ Hackathon 2 - E-Commerce Furniture Store
 
-## Getting Started
+Welcome to the **Furniture E-Commerce Website**! 🎉 This project is built using **Next.js**, **Tailwind CSS**, **TSX**, and **ShadCN Components**. It includes key features like a **Home Page**, **Cart Page**, **Blog Page**, **Contact Page**, and essential UI elements such as the **Navbar**, **Header**, and **Footer**. 💻✨
 
-First, run the development server:
+## Features ✨
+-**Account Page**:Shows account details🧾
+- **Home Page**: Showcases furniture collections and promotions 🏠🛋️
+- **Cart Page**: View and manage selected items 🛒
+- **Blog Page**: Read articles about furniture trends 📚
+- **Contact Page**: Get in touch with the store 📞✉️
+- **Navbar**: A responsive navigation bar to easily browse pages 📱💻
+- **Footer**: Links to social media and additional info 📱🌐
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack 🔧
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**: Fast and flexible React framework 🚀
+- **Tailwind CSS**: Utility-first CSS for styling 🌈
+- **TypeScript (TSX)**: JavaScript with type safety 💡
+- **ShadCN Components**: Pre-built UI components for fast development ⚡
+- **React**: Build reusable UI components 🖥️
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## License 📜
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project is open-source and licensed under the **MIT License**.
 
-## Learn More
+Enjoy building your e-commerce experience! 😊
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
