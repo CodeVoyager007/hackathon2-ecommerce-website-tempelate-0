@@ -61,7 +61,7 @@ const ContactSection = () => {
               </div>
             </div>
 
-            {/* Second Column (Contact Form) */}
+            {/*Contact Form) }
             <div className="bg-gray-50 p-8 rounded-lg shadow-md">
               <form className="space-y-6" >
                 {/* Your Name */}

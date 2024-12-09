@@ -15,11 +15,11 @@ const Cart = () => {
 
   return (
     <div>
-      {/* First Section with Tailwind Background */}
+      {/* 1st Section */}
       <section className="relative h-[60vh] bg-cover bg-center bg-shop-bg">
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center">
-          {/* Small Image in Center */}
+         
           <div className="mb-4">
             <Image
               src="/Rectangle1.png"
@@ -53,7 +53,7 @@ const Cart = () => {
               {/* Product Details (5 columns grid) */}
               <div className="grid grid-cols-5 gap-4 mt-6">
                 {/* First Row */}
-                <div></div> {/* Empty cell for layout alignment */}
+                <div></div> 
                 <div className="text-gray-700">
                   <h2 className="text-lg font-semibold">Asgaard Sofa</h2>
                 </div>

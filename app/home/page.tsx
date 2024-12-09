@@ -40,7 +40,7 @@ const HomePage: React.FC = () => {
                 </div>
             </section>
 
-            {/* New Section: Top Picks For You */}
+            {/*Top Picks For You section */}
             <section className="flex flex-col items-center p-8" style={{ background: '#FFFFFF' }}>
                 <h2 className="text-3xl font-bold text-center">Top Picks For You</h2>
                 <p className="mt-2 text-center">Find a bright idea to suit your taste with our great selection of suspension floor and table lights.</p>
@@ -75,7 +75,7 @@ const HomePage: React.FC = () => {
             </section>
             
 
-            {/* New Section: New Arrivals */}
+            {/* New Arrivals section*/}
             <section className="flex items-center justify-between px-8 py-16" style={{ background: '#FFF9E5' }}>
     <div className="flex-shrink-0">
         <Image src="/asgard.png" alt="New Arrival" width={900} height={799} className="object-cover" />
@@ -149,14 +149,14 @@ const HomePage: React.FC = () => {
                     Read More
                 </Link>
                 <div className="text-sm text-gray-600 flex items-center justify-center gap-4">
-                    {/* Clock Icon and Reading Time */}
+                    2
                     <span className="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-6a9 9 0 11-18 0 9 9 0 0118 0z" />
                         </svg>
                         5 min
                     </span>
-                    {/* Calendar Icon and Date */}
+                    
                     <span className="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 4h10M3 10h18M4 21h16a2 2 0 002-2V10a2 2 0 00-2-2H4a2 2 0 00-2 2v9a2 2 0 002 2z" />
@@ -184,14 +184,14 @@ const HomePage: React.FC = () => {
                     Read More
                 </Link>
                 <div className="text-sm text-gray-600 flex items-center justify-center gap-4">
-                    {/* Clock Icon and Reading Time */}
+                   
                     <span className="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-6a9 9 0 11-18 0 9 9 0 0118 0z" />
                         </svg>
                         5 min
                     </span>
-                    {/* Calendar Icon and Date */}
+                   
                     <span className="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 4h10M3 10h18M4 21h16a2 2 0 002-2V10a2 2 0 00-2-2H4a2 2 0 00-2 2v9a2 2 0 002 2z" />

@@ -12,7 +12,7 @@ const Blog = () => {
           {/* Blog Icon */}
           <div className="mb-4">
             <Image
-              src="/icon.png" // Place `icon.png` in the `public` folder
+              src="/icon.png" 
               alt="Blog Icon"
               width={100}
               height={100}
@@ -35,7 +35,7 @@ const Blog = () => {
               {/* Blog Post 1 */}
               <div>
                 <Image
-                  src="/contact.png" // Replace with the correct path or URL
+                  src="/contact.png" 
                   alt="Going On"
                   width={300}
                   height={300}

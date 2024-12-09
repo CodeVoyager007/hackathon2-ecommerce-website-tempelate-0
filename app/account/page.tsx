@@ -5,7 +5,7 @@ import Link from 'next/link'
 const Account = () => {
   return (
     <div>
-      {/* First Section with Tailwind Background */}
+      {/* First Section */}
       <section className="relative h-[60vh] bg-cover bg-center bg-shop-bg">
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center">
@@ -18,7 +18,7 @@ const Account = () => {
               className="object-cover rounded-full"
             />
           </div>
-          <h1 className="text-5xl font-bold">Shop</h1>
+          <h1 className="text-5xl font-bold">My Account</h1>
           <p className="text-xl mt-4">
             <Link href="/">Home</Link> &gt; My Account
           </p>
@@ -53,7 +53,7 @@ const Account = () => {
                     className="w-full p-3 border border-gray-300 rounded-md"
                   />
                 </div>
-                {/* Remember Me Checkbox */}
+                {/* Checkbox */}
                 <div className="flex items-center">
                   <input type="checkbox" id="rememberMe" className="mr-2" />
                   <label htmlFor="rememberMe" className="text-lg">Remember Me</label>
@@ -69,7 +69,7 @@ const Account = () => {
               </form>
             </div>
 
-            {/* Register Column */}
+            {/* Register section */}
             <div className="space-y-6">
               <h1 className="text-3xl font-bold">Register</h1>
               <form className="space-y-4">
