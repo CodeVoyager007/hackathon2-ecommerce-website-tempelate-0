@@ -3,7 +3,7 @@
 Welcome to the **Furniture E-Commerce Website**! 🎉 This project is built using **Next.js**, **Tailwind CSS**, **TSX**, and **ShadCN Components**. It includes key features like a **Home Page**, **Cart Page**, **Blog Page**, **Contact Page**, and essential UI elements such as the **Navbar**, **Header**, and **Footer**. 💻✨
 
 ## Features ✨
-
+-**Account Page**:Shows account details🧾
 - **Home Page**: Showcases furniture collections and promotions 🏠🛋️
 - **Cart Page**: View and manage selected items 🛒
 - **Blog Page**: Read articles about furniture trends 📚
